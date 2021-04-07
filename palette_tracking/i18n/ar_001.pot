@@ -1,0 +1,107 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* palette_tracking
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-07 23:24+0000\n"
+"PO-Revision-Date: 2021-04-07 23:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__balance
+msgid "Balance"
+msgstr "الرصيد "
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__id
+msgid "ID"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__icense_plate
+msgid "Icense Plate"
+msgstr "لوحة الترخيص"
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__palette_count_minus
+msgid "Palette Count Minus"
+msgstr "عدد لوحة - "
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__palette_count_plus
+msgid "Palette Count Plus"
+msgstr "عدد لوحة + "
+
+#. module: palette_tracking
+#: model:ir.actions.act_window,name:palette_tracking.act_res_partner_palette_racking
+#: model:ir.actions.act_window,name:palette_tracking.palette_tracking_action
+#: model:ir.ui.menu,name:palette_tracking.palette_tracking_id
+#: model_terms:ir.actions.act_window,help:palette_tracking.act_res_partner_palette_racking
+#: model_terms:ir.ui.view,arch_db:palette_tracking.res_partner_view_tracking_buttons
+#: model_terms:ir.ui.view,arch_db:palette_tracking.view_palette_form
+#: model_terms:ir.ui.view,arch_db:palette_tracking.view_palette_tree
+msgid "Palette Tracking"
+msgstr "تتبع لوحة "
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__partner_id
+msgid "Partner"
+msgstr "شريك"
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__picking_id
+msgid "Picking"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__picking_date_done
+msgid "Picking Date Done"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model.fields,field_description:palette_tracking.field_palette_tracking__picking_partner_id
+msgid "Picking Partner"
+msgstr ""
+
+#. module: palette_tracking
+#: model:ir.model,name:palette_tracking.model_palette_tracking
+msgid "palette.tracking"
+msgstr ""
